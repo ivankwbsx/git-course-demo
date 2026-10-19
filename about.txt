@@ -1,0 +1,3 @@
+My project
+Created for Git course
+Version 1.0
